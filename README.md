@@ -72,12 +72,7 @@ In this section, 3 steps are followed:
 * The zones of the dark corridors are crossed with the light positions to shut down all lights inside them.
 
 #### ***5. Central Management System***
-We produced a Python package with a dashboard, availabe to download with pip. Instructions on how to use are [here](https://github.com/joao-afonso-pereira/YodasLib):
-```
-pip install git+https://github.com/joao-afonso-pereira/YodasLib.git
-```
-
-We also built an app, which can be used for other cities or animals, that you can access [here](https://drive.google.com/drive/folders/1Tlgi7uc7n5IB7NKZArXi6nPkIJvfcZLv?usp=sharing).
+We produced a management system with a dashboard, as a local application developed in Python. Enter folder 'dashboard_app' to check the application.
 
 ## 💡 Main Insights
 
