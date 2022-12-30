@@ -1,5 +1,7 @@
 # World Data League 2022
 
+Access all teams challenges at [Holin's GitHub page](https://github.com/holistic-insights)
+
 ## 🎯 Challenge
 ***Finals:*** Identification of Dark Ecological Corridors
 
